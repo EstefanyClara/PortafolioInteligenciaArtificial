@@ -5,13 +5,13 @@
 
 # Portafolio Machine Learning Estefany Clara
 
-- :file_folder: **UNIDAD 1: Introducción al aprendizaje Automático**
-- :file_folder: **UNIDAD 2: Tratamiento previo de los datos y fundamentos de los algritmos de ML**
-- :file_folder: **UNIDAD 3: Algoritmos lineales**
-- :file_folder: **UNIDAD 4: Algoritmos no lineales- Naive Bayes, K-NN y feature selection**
-- :file_folder: **UNIDAD 5: Aprendizaje no supervizado y metodos de clustering**
-- :file_folder: **UNIDAD 6: Ensambles**
-- :file_folder: **UNIDAD 7: Ajuste, evaluación y sintonía de modelos**
+- :file_folder: [**UNIDAD 1: Introducción al aprendizaje Automático**](./Unidad%201/)
+- :file_folder: [**UNIDAD 2: Tratamiento previo de los datos y fundamentos de los algritmos de ML**](./Unidad%202/)
+- :file_folder: [**UNIDAD 3: Algoritmos lineales**](./Unidad%203/)
+- :file_folder: [**UNIDAD 4: Algoritmos no lineales- Naive Bayes, K-NN y feature selection**](./Unidad%204/)
+- :file_folder: [**UNIDAD 5: Aprendizaje no supervizado y metodos de clustering**](./Unidad%205/)
+- :file_folder: [**UNIDAD 6: Ensambles**](./Unidad%206/)
+- :file_folder: [**UNIDAD 7: Ajuste, evaluación y sintonía de modelos**](./Unidad%207/)
 
 
 # Introducción Machine Learning: 
