@@ -7,11 +7,17 @@
 
 - :file_folder: [**UNIDAD 1: Introducción al aprendizaje Automático**](./Unidad%201/)
 - :file_folder: [**UNIDAD 2: Tratamiento previo de los datos y fundamentos de los algritmos de ML**](./Unidad%202/)
+    - [**Ejercicios realizados**](./Unidad%202/Ejercicios%20realizados/)
 - :file_folder: [**UNIDAD 3: Algoritmos lineales**](./Unidad%203/)
+    - [**Ejercicios realizados**](./Unidad%203/Ejercicios%20realizados/)
 - :file_folder: [**UNIDAD 4: Algoritmos no lineales- Naive Bayes, K-NN y feature selection**](./Unidad%204/)
+    - [**Ejercicios realizados**](./Unidad%204/Ejercicios%20realizados/)
 - :file_folder: [**UNIDAD 5: Aprendizaje no supervizado y metodos de clustering**](./Unidad%205/)
+    - [**Ejercicios realizados**](./Unidad%205/Ejercicios%20realizados/)
 - :file_folder: [**UNIDAD 6: Ensambles**](./Unidad%206/)
+    - [**Ejercicios realizados**](./Unidad%206/Ejercicios%20realizados/)
 - :file_folder: [**UNIDAD 7: Ajuste, evaluación y sintonía de modelos**](./Unidad%207/)
+    - [**Ejercicios realizados**](./Unidad%207/Ejercicios%20realizados/)
 
 
 # Introducción Machine Learning: 
